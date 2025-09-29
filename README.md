@@ -11,7 +11,7 @@
 
 ## 👋 About Me
 
-I'm a bilingual technology professional combining **2+ years of technical support and team leadership** with a deep passion for software development and cloud architecture. Currently studying at SENA (Graduation: Dec 2026) and actively transitioning into cloud solutions and software engineering.
+I'm a bilingual technology professional combining **3+ years of technical support and team leadership** with a deep passion for software development and cloud architecture. Currently studying at SENA (Graduation: Dec 2026) and actively transitioning into cloud solutions and software engineering.
 
 I bring hands-on experience in enterprise environments, managing remote teams, troubleshooting technical issues, and optimizing service delivery — all while maintaining a strong focus on continuous learning and technical growth.
 
