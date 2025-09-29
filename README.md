@@ -19,7 +19,7 @@ I bring hands-on experience in enterprise environments, managing remote teams, t
 
 ## 🚀 My Journey
 
-Technology has been my passion since childhood. After spending 2+ years in technical support roles and leading customer service teams at scale, I'm now channeling that experience into cloud architecture and software development. 
+Technology has been my passion since childhood. After spending 3+ years in technical support roles and leading customer service teams at scale, I'm now channeling that experience into cloud architecture and software development. 
 
 From troubleshooting hardware and managing IT operations to building scalable cloud-native applications — bridging the gap between customer experience and technical excellence.
 
