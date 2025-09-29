@@ -77,10 +77,6 @@ From troubleshooting hardware and managing IT operations to building scalable cl
 
 ---
 
-## 🎯 Currently Open to Work
-
----
-
 ## 📫 Let's Connect
 
 <div align="center">
